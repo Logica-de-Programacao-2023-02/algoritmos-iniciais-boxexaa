@@ -1,0 +1,40 @@
+Algoritmo de soma de dois números: um
+ algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+1:Leia A
+2:Leia B
+3:Resultado= A + B
+4:escreva resultado
+
+
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+ 
+1: leia temperatura
+2: leia unidade
+3: se unidade = C
+4: então resultado = (Temperatura * 
+
+
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+ 
+1: solicitar a lista de números
+2: cont 0
+3: enquanto (cont < 30) faça
+4: escreva 1, 4, 7
+5: leia (1,4,7)
+6: soma (1+4+7)/3
+7: escreva ("média= 4") 
+8: cont + 1 
+9: fim
+
+Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+
+1: leia capital= 2000
+2: leia taxa= 3%
+3: leia tempo= 24 meses sendo
+4: M= 2000(1+ 0,03)²
+5: Soma M= 2000(1,03)² sendo
+6: M= 2000 * 1,0609
+7: resultado M= 3205,72
+8: subtraia 3205,72 - 2000
+9: resultado= 1205,72
