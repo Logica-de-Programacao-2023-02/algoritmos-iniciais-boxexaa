@@ -38,3 +38,27 @@ Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de
 7: resultado M= 3205,72
 8: subtraia 3205,72 - 2000
 9: resultado= 1205,72
+
+algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+1: ler lista 
+2: ler X 
+3: para cada elemento da lista faça:
+4: se elemento é igual a X, então:
+5: escreva Encontrei X
+6: Fim
+7: fim-se
+8: fim-para 
+9: Esvreva Não encontrei X 
+10: fim
+
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+
+1: ler X 
+2: para cada número entre 2 e X-1, faça:
+3: se o resto da divisão entre x e o número for 0, então:
+4: escreva X não é primo
+5: fim 
+6: fim-se 
+7: fim-para
+8: escreva X é primo 
+9: fim
